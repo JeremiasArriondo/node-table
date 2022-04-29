@@ -1,0 +1,15 @@
+{
+  "name": "03-node",
+  "version": "0.0.1",
+  "description": "Simple tabla de multiplicar con archivos de texto",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jeremias Arriondo",
+  "license": "MIT",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "yargs": "^16.2.0"
+  }
+}
